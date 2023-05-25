@@ -3,8 +3,8 @@ import './style/App.css';
 
 export default function App() {
     return (
-      <div id="app">
+        <div id="app">
 
-      </div>
+        </div>
     );
 }
